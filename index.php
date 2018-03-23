@@ -46,7 +46,6 @@ $conexion = mysqli_connect("localhost", "root", "", "sistem40_ulinea");
     <body>
 
         <div class="container">
-
             <form>
                 <div class="form-group">
                     <label for="usr">Codigo postal</label>
